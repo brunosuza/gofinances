@@ -1,0 +1,54 @@
+expo init nomeProjeto --npm
+
+expo start
+
+styled-component para estilação
+
+npm install styled-components
+npm add @types/styled-components-react-native -D
+
+google fonts via expo
+expo install expo-font @expo-google-fonts/poppins
+
+expo install expo-app-loading , enquanto a font não carregar ele não carrega o app 
+
+npm install react-native-responsive-fontsize para definir tamanhnos
+
+materials icons do vector-icons para icones
+
+npm install react-native-iphone-x-helper para lidar com os status bar da parte superior e inferior do aparelho 
+
+npm install --save react-native-gesture-handler
+
+react hook form para lidar com formulários 
+npm install react-hook-form
+
+npm install @hookform/resolvers yup
+biblioteca para fazer falidação de formulário
+
+biblioteca para navegação
+npm install @react-navigation/native
+expo install react-natice-screens react-native-safe-area-context
+npm install @react-navigation/bottom-tabs
+expo install react-native-gesture-handler
+
+Usamos AsyncStore para armazenar as informações da aplicação
+expo install @react-native-async-storage/async-storage
+
+react uuid para gerar id's para os registros
+npm install react-native-uuid
+
+npm install intl
+
+victory-native para graficos
+npm install victory-native
+--npm install react-native-svg
+npm install react-native-svg@9.13.3
+
+date-fns para datas
+npm install date-fns
+
+react native svg transformer
+npm install react-native-svg-transformer
+
+npm install babel-plugin-inline-dotenv para usar arquivo .env para armazenar informações de client id
