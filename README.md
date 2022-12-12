@@ -17,4 +17,4 @@ Ingnite training of react native
 Only study
 
 Ingnite training
-![Capa](https://user-images.githubusercontent.com/13911181/198896289-ae38c699-6c71-4817-86b1-fce2ff0b433a.png)
+![Capa](https://user-images.githubusercontent.com/13911181/207163163-3356ef92-f639-46dd-9e14-bcf0894f2215.png)
