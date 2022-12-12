@@ -16,5 +16,5 @@ Ingnite training of react native
 
 Only study
 
-Ingnite training
+Ignite training
 ![Capa](https://user-images.githubusercontent.com/13911181/207163163-3356ef92-f639-46dd-9e14-bcf0894f2215.png)
